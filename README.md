@@ -45,3 +45,19 @@ Functions, Triggers, etc.).
 <li>MSBI (SSIS,SSAS, SSRS).
 <li>Power BI Dashboards.
 <li>Documentation.</li></ul>
+
+
+<h2>Project Overview:</h2>
+
+• Developed database ERD and Mapping and built the structure from scratch using SQL Server
+
+• Developed System functionalities using stored procedures, functions, and views to enhance the system
+  logic and system permissions.
+
+• Developed a data warehouse utilizing (SSIS) for seamless data integration and applying slowly
+  changing dimension principle and (SSAS) for multidimensional analysis.
+
+• Generated reports utilizing (SSRS) based on the established database.
+
+• Created interactive dashboards using (Power BI) and DAX formulas for insightful analysis
+  and connected with students’ social network information.
